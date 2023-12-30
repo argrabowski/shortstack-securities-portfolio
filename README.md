@@ -1,4 +1,4 @@
-## Securities Portfolio
+## Shortstack Securities Portfolio
 
 https://securities-portfolio-shortstack.glitch.me
 
